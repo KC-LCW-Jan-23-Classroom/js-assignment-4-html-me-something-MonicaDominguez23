@@ -1,1 +1,59 @@
-/* Write your CSS here! */
+head {
+  margin: center;
+}
+#mainHeading {
+  color: red
+}
+body {
+  margin: 8px;
+  display: block;
+  background-color: rgb(219, 124, 167);
+}
+header {
+  width: 320px;
+  padding: 40px;
+  margin: auto;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: xx-large;
+}
+h2 {
+  width: 400px;
+  margin: 40px;
+  color: aquamarine;
+  font-size: xx-large;
+  text-decoration: underline;
+
+}
+h3 {
+  width: 400px;
+  margin: 40px;
+  color: aquamarine;
+  font-size: xx-large;
+  text-decoration: underline;
+
+}
+h4 {
+  width: 400px;
+  margin: 40px;
+  color: aquamarine;
+  font-size: xx-large;
+  text-decoration: underline;
+
+}
+p {
+  text-align: center;
+  font-size: x-large;
+  margin: 25px;
+}
+li {
+  text-align: left;
+  font-size: x-large;
+  color: rgb(30, 11, 73);
+  margin: 30px;
+
+}
+.funParagraph{
+  font-size: large;
+  font-family:  Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+}
